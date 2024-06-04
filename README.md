@@ -1,3 +1,4 @@
 # Verlet Integration (Python)
 
-### OUTDATED: Check out my [newer version in C](https://github.com/marichardson137/VerletIntegration) for demos, references, and more info!
+## Credits:
+Inspired by https://www.youtube.com/watch?v=NorXFOobehY&t=182s&ab_channel=Gradience
